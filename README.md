@@ -1,2 +1,2 @@
 # Networking
-Representación de URL en Swift a partir de sus componentes
+URL rendering in Swift from its components
